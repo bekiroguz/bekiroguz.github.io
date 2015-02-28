@@ -7,17 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            engineering! software
+tagline:          How do we engineer software, or is it really engineering? Maybe crafts? I’m a ‘software engineer(!)’ willing to share my daily experiences and also some personal, cultural, political bits …
+url:              http://boguz.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Bekir Oguz
+  url:            https://twitter.com/bekiroguzz
+  email:          bekiroguz@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/boguz
+
+# Time Zone
+timezone:         Europe/Amsterdam
