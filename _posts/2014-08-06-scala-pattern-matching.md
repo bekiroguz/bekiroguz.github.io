@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Scala Pattern Matching? Be careful :)
+redirect_from: /2014/08/06/scala-pattern-matching/
+permalink: scala-pattern-matching-be-careful
 ---
 
 A few days ago I experienced one of the scala pattern matching rules in action. Luckily I already had a unit test that prevented this very hidden bug :) This is the test and the first version of the code which was perfectly working:
